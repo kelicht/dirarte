@@ -1,0 +1,18 @@
+numpy
+pandas
+scikit-learn
+scipy
+numba
+pyscipopt
+pytorch
+
+# Visualization libraries
+matplotlib
+seaborn
+tqdm
+ipykernel
+nbformat
+tabulate
+
+# For the reproducibility of the experiments
+xgboost==1.7.4
